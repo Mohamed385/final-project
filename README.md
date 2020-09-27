@@ -6,3 +6,4 @@ This project is an exercise in acquiring and cleaning data. The project uses dat
 
 # Project Files
 # Data Processing Script: run_analysis.R
+The R script 
